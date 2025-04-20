@@ -96,5 +96,5 @@ The user can then review, edit, and export the draft.
 
 ```bash
 git clone https://github.com/kumar102003/btp.git
-cd ai-legal-assistant
+cd btp
 npm install
